@@ -1,38 +1,70 @@
-.App {
-  text-align: center;
+.divBarra {
+  align-content: space-between;
+  margin-bottom: 5px;
+  background-color: grey;
+  
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.divBarra div{
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-bottom: 5px;
+  align-items: center;
 }
 
-.App-link {
-  color: #61dafb;
+.divBarra input, select{
+  border-radius: 5px;
+  border: 1px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.divPaginas {
+  display: flex;
+  margin-top: 1%;
+}
+
+.divPaginas button {
+   display: flex;
+   align-items: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border: 1px solid black;
+}
+
+.inputBuscar{
+  margin-right: 50px;
+}
+
+.tabla {
+  margin: 5% auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  
+  
+}
+
+.tabla h2 {
+  display: flex ;
+  align-items: center;
+}
+
+
+table tr ,td{
+  border: 1px solid grey;
+  border-radius: 3px;  
+  margin-right: 5px;
+  margin-left: 5px;
+  padding: 20px;
+}
+
+table {
+  border: 1px  grey;
+  border-radius: 5px;
+  box-shadow: inset 0 -3em 3em rgba(0,0,0,0.1),
+  0 0  0 2px rgb(255,255,255),
+  0.3em 0.3em 1em rgba(0,0,0,0.3);
+  background-color: white;
+  
 }

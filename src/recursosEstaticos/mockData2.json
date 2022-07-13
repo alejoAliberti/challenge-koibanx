@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+        "id": "5",
+        "commerce": "Zapateria",
+        "cuit": "27785485254",
+        "concept1": 1,
+        "concept2": 2,
+        "concept3": 3,
+        "concept4": 4,
+        "concept5": 5,
+        "concept6": 6,
+        "balance": 420,
+        "active": true,
+        "lastsale": "25/03/2022"
+        },
+        {
+        "id": "6",
+        "commerce": "Gomeria",
+        "cuit": "27785485248",
+        "concept1": 1,
+        "concept2": 2,
+        "concept3": 3,
+        "concept4": 4,
+        "concept5": 5,
+        "concept6": 6,
+        "balance": 420,
+        "active": false,
+        "lastsale": "25/03/2022"
+        },
+        {
+            "id": "7",
+        "commerce": "Mecanica",
+        "cuit": "27785458254",
+        "concept1": 1,
+        "concept2": 2,
+        "concept3": 3,
+        "concept4": 4,
+        "concept5": 5,
+        "concept6": 6,
+        "balance": 420,
+        "active": true,
+        "lastsale": "25/03/2022"
+        },
+        {
+        "id": "8",
+        "commerce": "Fruteria",
+        "cuit": "27321585254",
+        "concept1": 1,
+        "concept2": 2,
+        "concept3": 3,
+        "concept4": 4,
+        "concept5": 5,
+        "concept6": 6,
+        "balance": 420,
+        "active": false,
+        "lastsale": "25/03/2022"
+        }   
+    ],
+
+    "page": 2,
+    "pages": 2,
+    "rowsPerPage": 4,
+    "total": 1000
+}

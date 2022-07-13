@@ -1,0 +1,66 @@
+{
+    "data": [
+        {
+        "id": "1",
+        "commerce": "Frigorifico",
+        "cuit": "27785485254",
+        "concept1": 1,
+        "concept2": 2,
+        "concept3": 3,
+        "concept4": 4,
+        "concept5": 5,
+        "concept6": 6,
+        "balance": 420,
+        "active": true,
+        "lastsale": "25/03/2022"
+        },
+        {
+        "id": "2",
+        "commerce": "Panaderia",
+        "cuit": "27785485254",
+        "concept1": 1,
+        "concept2": 2,
+        "concept3": 3,
+        "concept4": 4,
+        "concept5": 5,
+        "concept6": 6,
+        "balance": 420,
+        "active": false,
+        "lastsale": "25/03/2022"
+        },
+        {
+            "id": "3",
+        "commerce": "Heladeria",
+        "cuit": "27785485254",
+        "concept1": 1,
+        "concept2": 2,
+        "concept3": 3,
+        "concept4": 4,
+        "concept5": 5,
+        "concept6": 6,
+        "balance": 420,
+        "active": true,
+        "lastsale": "25/03/2022"
+        },
+        {
+        "id": "4",
+        "commerce": "Verduleria",
+        "cuit": "27785485254",
+        "concept1": 1,
+        "concept2": 2,
+        "concept3": 3,
+        "concept4": 4,
+        "concept5": 5,
+        "concept6": 6,
+        "balance": 420,
+        "active": false,
+        "lastsale": "25/03/2022"
+        }
+        
+    ],
+
+    "page": 1,
+    "pages": 2,
+    "rowsPerPage": 4,
+    "total": 1000
+}
